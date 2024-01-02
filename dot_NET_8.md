@@ -48,7 +48,7 @@ dotnet add package <nomePacote> --version 1.0
 dotnet new blazor -o <BlazorNomeApp>
 ```
 
-Abrir ambiente de desenvilvimento
+Abrir ambiente de desenvolvimento
 
 ```
 cd <BlazorNomeApp>
